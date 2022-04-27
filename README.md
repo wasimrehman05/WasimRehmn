@@ -19,7 +19,7 @@ Full Stack Web Developer with hands-on experience in designing, developing, and 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://dev-wasim.netlify.app/
+- 👨‍💻 Check **[My Portfolio](https://dev-wasim.netlify.app/
 )**
 
 - 📫 How to reach me **iam_wasim@outlook.com**
