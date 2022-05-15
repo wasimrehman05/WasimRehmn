@@ -3,7 +3,7 @@
 <a href="https://github.com/WasimRehmn/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=WasimRehmn">
 </a>
-<a href="https://github.com/WasimRehmn/awesome-github-profile-readme/graphs/contributors">
+<a href="https://github.com/WasimRehmn/WasimRehmn/contributors">
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/WasimRehmn/awesome-github-profile-readme?color=2b9348">
 </a>
 
